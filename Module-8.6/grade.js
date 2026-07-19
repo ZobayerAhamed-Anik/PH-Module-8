@@ -1,6 +1,6 @@
 //NSU grading systemic result...
 
-const marks = 79;
+const marks = 56;
 if (marks >= 93){
     console.log('A');
 }
